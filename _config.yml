@@ -23,4 +23,4 @@ repo_name: "TBD"
 repo: ucsb-cs156-f23/team02-f23-6pm-1
 owner: ucsb-cs156-f23
 repo_name: team02-f23-6pm-1
-pull_requests: [{"author":{"id":"MDQ6VXNlcjY5Njk2Njcx","is_bot":false,"login":"Joseph-Foster","name":"Joseph Foster"},"headRefName":"Joseph-ArticlesRequestTable","number":45,"title":"Articles CRUD operations and test coverage","url":"https://github.com/ucsb-cs156-f23/team02-f23-6pm-1/pull/45"}]
+pull_requests: []
