@@ -23,4 +23,4 @@ repo_name: "TBD"
 repo: ucsb-cs156-f23/team02-f23-6pm-1
 owner: ucsb-cs156-f23
 repo_name: team02-f23-6pm-1
-pull_requests: [{"author":{"id":"MDQ6VXNlcjM2NDk0MTY3","is_bot":false,"login":"ErwanDev","name":"Erwan"},"headRefName":"Erwan-HelpRequestsController","number":44,"title":"Help request controller and test coverage for get/all and post endpoints","url":"https://github.com/ucsb-cs156-f23/team02-f23-6pm-1/pull/44"}]
+pull_requests: [{"author":{"id":"MDQ6VXNlcjY5Njk2Njcx","is_bot":false,"login":"Joseph-Foster","name":"Joseph Foster"},"headRefName":"Joseph-ArticlesRequestTable","number":45,"title":"Articles CRUD operations and test coverage","url":"https://github.com/ucsb-cs156-f23/team02-f23-6pm-1/pull/45"},{"author":{"id":"MDQ6VXNlcjM2NDk0MTY3","is_bot":false,"login":"ErwanDev","name":"Erwan"},"headRefName":"Erwan-HelpRequestsController","number":44,"title":"Help request controller and test coverage for get/all and post endpoints","url":"https://github.com/ucsb-cs156-f23/team02-f23-6pm-1/pull/44"}]
