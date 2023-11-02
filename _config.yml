@@ -23,4 +23,4 @@ repo_name: "TBD"
 repo: ucsb-cs156-f23/team02-f23-6pm-1
 owner: ucsb-cs156-f23
 repo_name: team02-f23-6pm-1
-pull_requests: [{"author":{"id":"MDQ6VXNlcjQ0Njg5MjQw","is_bot":false,"login":"Johnsonchan105","name":"Johnson Chan"},"headRefName":"Johnson-OrgRequestTable","number":46,"title":"Created UCSB Organization Entity and Repository","url":"https://github.com/ucsb-cs156-f23/team02-f23-6pm-1/pull/46"}]
+pull_requests: [{"author":{"id":"MDQ6VXNlcjM2NDk0MTY3","is_bot":false,"login":"ErwanDev","name":"Erwan"},"headRefName":"RepairOrg","number":55,"title":"Organization Bug Patch","url":"https://github.com/ucsb-cs156-f23/team02-f23-6pm-1/pull/55"},{"author":{"id":"MDQ6VXNlcjQ0Njg5MjQw","is_bot":false,"login":"Johnsonchan105","name":"Johnson Chan"},"headRefName":"Johnson-OrgRequestTable","number":46,"title":"Created UCSB Organization Entity and Repository","url":"https://github.com/ucsb-cs156-f23/team02-f23-6pm-1/pull/46"}]
